@@ -1,0 +1,8 @@
+echo Creating release file structure
+mkdir -p GameData/Snarkiverse
+cp ../changelog.txt GameData/Snarkiverse
+cp ../LICENSE GameData/Snarkiverse
+cp ../README.md GameData/Snarkiverse
+cp -R ../configs GameData/Snarkiverse
+cp -R ../compatibility GameData/Snarkiverse
+echo Done.
