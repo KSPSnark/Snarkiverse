@@ -1,6 +1,10 @@
-Release v1.0 (2018-05-16)
-* Initial release.
+Release v1.2 (2018-11-21)
+* Add Kerbol Origins compatibility patch.
+
 
 Release v1.1 (2018-05-18)
 * Update OPM compatibility patch to put Plock in orbit around Jool.
 
+
+Release v1.0 (2018-05-16)
+* Initial release.
